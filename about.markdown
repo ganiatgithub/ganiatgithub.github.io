@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
+![Portrait taken in 2024](/assets/images/DSC04090.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in research and data analytics to inform decisions for better sustainability.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Connect with ee
 
-
-[jekyll-organization]: https://github.com/jekyll
+[LinkedIn](https://www.linkedin.com/in/gaofeng-ni-42312b58/?originalSubdomain=au), [Twitter](https://x.com/gaofengni), [Google Scholar](https://scholar.google.com/citations?user=zpUojmoAAAAJ&hl=en)
