@@ -9,6 +9,8 @@ permalink: /about/
 
 PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in research and data analytics to inform decisions for better sustainability.
 
-## Connect with ee
+[**CV**](/assets/documents/CURRICULUM VITAE.pdf)
+
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/gaofeng-ni-42312b58/?originalSubdomain=au), [Twitter](https://x.com/gaofengni), [Google Scholar](https://scholar.google.com/citations?user=zpUojmoAAAAJ&hl=en)
