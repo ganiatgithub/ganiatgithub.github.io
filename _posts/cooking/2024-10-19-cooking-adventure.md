@@ -11,4 +11,4 @@ Experimenting fried tofu!
 - Seasoning: Soy source, honey, salt and pepper.
 - Toppings: Chopped spring onions and sesame.
 
-![Fried tofu](assets/images/cooking/IMG_2816.jpg)
+![Fried tofu](/assets/images/cooking/IMG_2816.jpg)
