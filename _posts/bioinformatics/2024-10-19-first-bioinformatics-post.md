@@ -9,4 +9,4 @@ Random forest analysis is a powerful technique to understand the relation betwee
 The following image illustrates how important each predictor are related to the four response variables.
 I found out that **predictor 1** is overwhelming important for all response variables except for D.
 
-![Random forest image 1](assets/images/bioinformatics/random_forest_example.pdf)
+![Random forest image 1](assets/images/bioinformatics/random_forest_example.png)

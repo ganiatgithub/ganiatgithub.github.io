@@ -9,7 +9,4 @@ Welcome to my personal blog! Explore posts about **bioinformatics**, **photograp
 
 ## Connect with Me
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/gaofeng-ni-42312b58/?originalSubdomain=au)
-[My Twitter/X account](https://x.com/gaofengni)
-[My Google Scholar profile](https://scholar.google.com/citations?user=zpUojmoAAAAJ&hl=en)
-[Follow me on Instagram](https://www.instagram.com/bomebome_n/)
+[LinkedIn](https://www.linkedin.com/in/gaofeng-ni-42312b58/?originalSubdomain=au) | [Twitter/](https://x.com/gaofengni) | [Google Scholar](https://scholar.google.com/citations?user=zpUojmoAAAAJ&hl=en)

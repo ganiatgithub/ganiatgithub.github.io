@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photography: recent photos from South Africa"
+title: "Photography: recent photos"
 date: 2024-10-19
 categories: photography
 ---
