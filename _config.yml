@@ -20,12 +20,12 @@
 
 title: "Gaofeng's Blog"
 description: "Personal blog about bioinformatics, cooking, and photography"
-baseurl: "" # Leave this empty for GitHub Pages
-url: "https://ganiatgithub.github.io" # Replace with your GitHub username
+baseurl: ""  # Leave this empty since it's your main GitHub Pages repo
+url: "https://ganiatgithub.github.io"
 theme: minima
 author:
   name: "Gaofeng"
-  email: "gaofeng.ni@outlook.com"
+  email: "your-email@example.com"
 
 
 # Exclude from processing.

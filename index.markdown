@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Welcome to Gaofeng's Blog"
 ---
+
+Welcome to my personal blog! Explore posts about bioinformatics, cooking, and photography.
