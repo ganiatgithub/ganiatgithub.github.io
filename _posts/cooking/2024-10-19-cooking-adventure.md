@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cooking Adventure: Homemade Ramen"
+title: "Cooking Adventure: Homemade Ramen - example page"
 date: 2024-10-19
 categories: cooking
 ---
