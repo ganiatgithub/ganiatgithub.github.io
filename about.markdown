@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 ## About me
-![Portrait taken in 2024](/assets/images/DSC04090.jpg)
+![Portrait taken in 2024](/assets/images/DSC04090-2.jpg)
 
-PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in research and data analytics to inform decisions for better sustainability.
+PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in data-driven approaches to improve health and the environment.
 
 [**CV**](/assets/documents/CURRICULUM VITAE.pdf)
 

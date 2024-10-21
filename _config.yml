@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Gaofeng's Blog"
-description: "PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in research and data analytics to inform decisions for better sustainability."
+description: "PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in data-driven approaches to improve health and the environment."
 baseurl: ""  # Leave this empty since it's your main GitHub Pages repo
 url: "https://ganiatgithub.github.io"
 theme: minima
