@@ -9,7 +9,7 @@ permalink: /about/
 
 PhD in Ecology. Travelled across Asia, Europe, and now living in Melbourne, Australia. Looking for jobs in data-driven approaches to improve health and the environment.
 
-[**CV**](/assets/documents/CURRICULUM VITAE.pdf)
+[**CV**](/assets/documents/CURRICULUM VITAE Gaofeng Ni.pdf)
 
 ## Connect with me
 
